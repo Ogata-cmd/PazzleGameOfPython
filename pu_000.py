@@ -1,6 +1,5 @@
 # This software is licensed under the Python Software Foundation License.
 # See the LICENSE file for more details.
-# Copyright (c) [2024] [Kosuke Muramatsu]
 
 import tkinter as tk
 import subprocess
